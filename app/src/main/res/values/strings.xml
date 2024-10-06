@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TugasTaskReminder</string>
+    <string name="simpliremind">SimpliRemind</string>
+    <string name="add_task">Add Task</string>
+    <string name="make_reminder">Make your own Reminder</string>
+    <string name="label_title">Title</string>
+    <string name="insert_title">Insert Title</string>
+    <string name="label_repeat">Repeat</string>
+    <string name="label_date">Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="label_time">Time</string>
+
+    <array name="repeat">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Fri</item>
+    </array>
+</resources>
